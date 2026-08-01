@@ -1,4 +1,4 @@
-# Svami Churna — Invoice Generator
+# Swami Churna — Invoice Generator
 
 A simple, free, static web tool that fills your existing Excel invoice
 template in the browser and downloads a ready `.xlsx` invoice — no backend,
